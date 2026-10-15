@@ -9,4 +9,4 @@ pnpm dev
 
 Add a recipe: append it to `src/lib/recipes.ts` and put its photo in `static/images/`.
 
-Deploys on push to `main` via `.github/workflows/deploy.yml`. One-time setup: repo **Settings → Pages → Source: GitHub Actions**.
+On push to `main`, `.github/workflows/deploy.yml` builds the site into the `gh-pages` branch. One-time setup: repo **Settings → Pages → Deploy from a branch: `gh-pages` / root**.
