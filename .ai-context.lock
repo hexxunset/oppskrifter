@@ -1,0 +1,18 @@
+# AI context sync state — managed by the ai-context-sync skill. Do not edit by hand.
+source = git@github.com:hexxunset/personal-ai-context (main)
+commit = 5f4276234524a084bdfb106ca2f5284dab458efc
+profile = oppskrifter
+synced = 2026-10-15
+files:
+  AGENTS.md
+  CLAUDE.md
+  GEMINI.md
+  .aiexclude
+  .ai-rules/shared/git-conventions.md
+  .ai-rules/frontend/svelte.md
+  .ai-rules/frontend/documentation.md
+  .claude/skills/commit
+  .claude/skills/planning-docs
+  .claude/skills/sparring-plan
+  .claude/skills/ai-context-sync
+  .claude/skills/svelte-component-create

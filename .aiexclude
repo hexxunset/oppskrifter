@@ -1,0 +1,32 @@
+# Secrets and credentials
+*.key
+*.pem
+*.secret
+credentials.json
+secrets.yml
+.env
+
+# Build artifacts
+dist/
+build/
+target/
+*.class
+bin/
+obj/
+
+# Dependencies
+node_modules/
+vendor/
+.venv/
+venv/
+
+# IDE and OS files
+.idea/
+.vscode/
+.DS_Store
+*.swp
+
+# Logs and temp files
+*.log
+tmp/
+temp/
