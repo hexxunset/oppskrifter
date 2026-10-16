@@ -55,7 +55,7 @@
 
 	<main>
 		<header id="start" class="page masthead" {@attach trackVisible}>
-			<p class="eyebrow">Til mamma, med kjærlighet</p>
+			<p class="eyebrow">Til den beste mammaen:</p>
 			<h1>Mammas <em>oppskrifter</em></h1>
 		</header>
 
@@ -258,7 +258,7 @@
 		.page {
 			display: block;
 			min-height: 0;
-			padding: 0;
+			padding: 1.5cm;
 			border: none;
 		}
 

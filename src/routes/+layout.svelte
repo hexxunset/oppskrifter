@@ -30,8 +30,9 @@
 	}
 
 	@media print {
+		/* Zero page margin makes browsers drop the header/footer (date, title, URL); the content supplies its own padding */
 		@page {
-			margin: 1.5cm;
+			margin: 0;
 		}
 	}
 </style>
